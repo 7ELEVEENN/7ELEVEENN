@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently a 3rd year Computer Science Student
+ 🔭 I’m currently a 4th year Computer Science Student
  
- 🌱 I’m currently learning **Python, Javascript, MySQL**
+
  
 
  </div>
