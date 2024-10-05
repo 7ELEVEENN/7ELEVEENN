@@ -44,7 +44,7 @@
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
-    <img src="[https://techstack-generator.vercel.app/java-icon.svg](https://techstack-generator.vercel.app/github-icon.svg)" alt="" width="50" height="50"/>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="" width="50" height="50"/>
 
 
 
