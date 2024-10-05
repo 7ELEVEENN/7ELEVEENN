@@ -43,6 +43,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,c,flask" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="Kubernetes" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="" width="50" height="50"/>
 
