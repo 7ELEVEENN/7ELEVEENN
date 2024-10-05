@@ -47,13 +47,6 @@
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="" width="50" height="50"/><br>
 
-<h2 align="center">🔺 Data Science & Machine Learning 🔻</h2>
-<br/>
-    <img src="https://techstack-generator.vercel.app/jupyter-icon.svg" alt="Jupyter" width="50" height="50"/>
-    <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
-    <img src="https://techstack-generator.vercel.app/keras-icon.svg" alt="Keras" width="50" height="50"/>
-    <img src="https://techstack-generator.vercel.app/scikit-learn-icon.svg" alt="Scikit-Learn" width="50" height="50"/>
-
 
 
 
