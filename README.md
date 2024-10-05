@@ -37,9 +37,10 @@
 <div align="center">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60"/>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60"/>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
 </div>
 
 <br/>
