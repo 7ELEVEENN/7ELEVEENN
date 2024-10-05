@@ -42,10 +42,10 @@
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60"/>
     <img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,c,java,flask" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
-    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
-<img src="https://techstack-generator.vercel.app/cplusplus-icon.svg" alt="C++" width="50" height="50"/>
-<img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="50" height="50"/>
+    <img src="https://techstack-generator.vercel.app/cplusplus-icon.svg" alt="C++" width="50" height="50"/>
+    <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="50" height="50"/>
 
 </div>
 
