@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently a 4th year Computer Science Student
+ 👨‍💻 I’m currently a 4th year Computer Science Student
  
 
  
@@ -33,6 +33,13 @@
  <hr/>
  
 <h2 align="center"> Languages-Frameworks-Tools </h2>
+<div align="center">
+ 
+ 🌐 Currently learning and using these technologies.
+ 
+
+
+ </div>
 <br/>
 <div align="center">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
