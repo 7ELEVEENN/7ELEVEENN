@@ -32,7 +32,7 @@
 
  <hr/>
  
-<h2 align="center">🔺 Languages-Frameworks-Tools 🔻</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
@@ -42,7 +42,6 @@
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60"/>
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,c,flask" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
-    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="" width="50" height="50"/><br>
