@@ -53,13 +53,23 @@
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="50" height="50"/>
 
-
-
-
 </div>
 
 <br/>
 <hr/>
+<h2 align="center"> Stats </h2>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=7ELEVEENN&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ELEVEENN&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</div>
+
+<br/>
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=7ELEVEENN&theme=radical" alt="GitHub Streak" height="150" />
+</div>
+
 
 
 
