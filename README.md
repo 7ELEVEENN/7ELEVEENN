@@ -45,7 +45,7 @@
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60"/>
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,CSS,PHP,vscode,github,figma,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,CSS,vscode,github,figma,tailwind,git,php" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,c,flask" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="50" height="50"/>
