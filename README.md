@@ -53,6 +53,7 @@
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=streamlit" alt="streamlit" width="50" height="50"/>
 
 </div>
 
