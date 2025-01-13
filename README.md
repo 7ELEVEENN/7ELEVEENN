@@ -60,8 +60,9 @@
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ELEVEENN&layout=compact&theme=radical" alt="Top Languages" height="200" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7ELEVEENN&theme=radical" alt="Languages by Repositories" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ELEVEENN&layout=compact&theme=radical" alt="Top Languages" height="150" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7ELEVEENN&theme=radical" alt="Languages by Repositories" height="150" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7ELEVEENN&theme=radical" alt="Languages by Commits" height="150" />
 
 </div>
 
