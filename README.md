@@ -42,15 +42,16 @@
  </div>
 <br/>
 <div align="center">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60"/>
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,c,flask" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="" width="50" height="50"/><br>
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="50" height="50"/>
 
 
 
