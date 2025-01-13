@@ -50,7 +50,7 @@
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="50" height="50"/>
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="" width="50" height="50"/><br>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="50" height="50"/>
 
 
